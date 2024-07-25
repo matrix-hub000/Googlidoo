@@ -21,13 +21,13 @@ Create a Google Form with the following questions:
 
 a) Relevant Marketing Skills (Checkboxes)
 
-SEO
-Content Creation
-Social Media Management
-Email Marketing
-Marketing Analytics
-Don't have any relevant skills stated above
-Others (Please state out)
+-SEO
+-Content Creation
+-Social Media Management
+-Email Marketing
+-Marketing Analytics
+-Don't have any relevant skills stated above
+-Others (Please state out)
 
 b) Tools and Software Proficiency (Checkboxes)
 Google Analytics
