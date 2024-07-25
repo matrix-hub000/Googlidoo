@@ -21,7 +21,7 @@ Create a Google Form with the following questions:
 
 a) Relevant Marketing Skills (Checkboxes)
 
--SEO
+SEO
 
 -Content Creation
 
