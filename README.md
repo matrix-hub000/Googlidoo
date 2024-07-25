@@ -16,6 +16,7 @@ Create a Google Form with the following questions:
 2. Email address (Short answer text)
 3. Phone Number (Short answer text)
 4. Skill And Qualification
+
 a) Relevant Marketing Skills (Checkboxes)
 SEO
 Content Creation
