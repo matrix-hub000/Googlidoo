@@ -20,6 +20,7 @@ Create a Google Form with the following questions:
 4. Skill And Qualification
 
 a) Relevant Marketing Skills (Checkboxes)
+
 SEO
 Content Creation
 Social Media Management
