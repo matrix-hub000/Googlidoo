@@ -1,6 +1,8 @@
 # Googlidoo 
 Google Workspace Hackathon (Case Study: Human Resources)
 
+Our solution integrates a Google Form into your company's recruitment webpage to streamline the application process. Applicants fill out the form, and within approximately 4 seconds, they receive an email informing them whether they have been invited for an interview or rejected based on predefined criteria. This automated process ensures efficient and timely communication, enhancing the candidate experience and reducing HR workload.
+
 To achieve the goal of automatically sending emails based on responses from your Google Form, follow these steps:
 
 Create the Google Form with the specified questions and options as mentioned.
